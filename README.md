@@ -1,7 +1,17 @@
-<<<<<<< HEAD
-# Dor-s-proffesional-articles-Published-in-Towards-Data-Science-Medium
-Dor's proffesional articles, Published in Towards Data Science (Medium)
+# Dor's proffesional articles, Published in Towards Data Science (Medium)
 
+# Table of Contents
+- [Accomplishments](#accomplishments)
+- [GPT4 Summaries of the Papers](#gpt4-summaries-of-the-papers)
+    - [Time Series: How to Beat SageMaker DeepAR with Random Forest](#time-series-how-to-beat-sagemaker-deepar-with-random-forest)
+    - [10 Features Your Streamlit ML App Can’t Do Without — Implemented](#10-features-your-streamlit-ml-app-cant-do-without--implemented)
+    - [The Good, the Bad and the DataSpell](#the-good-the-bad-and-the-dataspell)
+- [Summaries for My Other Articles, Posted in Towards AI and Data-Driven Fiction](#summaries-for-my-other-articles-posted-in-towards-ai-and-data-driven-fiction)
+    - [Who’s The Best Free Chatbot? ChatGPT vs. Bing Chat vs. Bard](#whos-the-best-free-chatbot-chatgpt-vs-bing-chat-vs-bard)
+    - [Can ChatGPT Think? An answer from Leibowitz, Yovell, and ChatGPT](#can-chatgpt-think-an-answer-from-leibowitz-yovell-and-chatgpt)
+    - [Will AI Kill Us All? GPT4 Answers to Yudkowsky](#will-ai-kill-us-all-gpt4-answers-to-yudkowsky)
+    - [MJ vs. LBJ — who’s the GOAT? A rational answer by Bing Chat](#mj-vs-lbj--whos-the-goat-a-rational-answer-by-bing-chat)
+    - 
 # Accomplishments
 
 * [The Good, the Bad and the DataSpell](https://towardsdatascience.com/the-good-the-bad-and-the-dataspell-a86fec8fd6e1) is first result in Google after the official Jetbrains website:
