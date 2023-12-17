@@ -1,5 +1,3 @@
-# Dor's proffesional articles, Published in Towards Data Science (Medium)
-
 # Table of Contents
 - [Accomplishments](#accomplishments)
 - [GPT4 Summaries of the Papers](#gpt4-summaries-of-the-papers)
