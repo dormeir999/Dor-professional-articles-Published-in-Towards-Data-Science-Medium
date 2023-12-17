@@ -9,7 +9,7 @@
     - [Can ChatGPT Think? An answer from Leibowitz, Yovell, and ChatGPT](#can-chatgpt-think-an-answer-from-leibowitz-yovell-and-chatgpt)
     - [Will AI Kill Us All? GPT4 Answers to Yudkowsky](#will-ai-kill-us-all-gpt4-answers-to-yudkowsky)
     - [MJ vs. LBJ — who’s the GOAT? A rational answer by Bing Chat](#mj-vs-lbj--whos-the-goat-a-rational-answer-by-bing-chat)
-    - 
+  
 # Accomplishments
 
 * [The Good, the Bad and the DataSpell](https://towardsdatascience.com/the-good-the-bad-and-the-dataspell-a86fec8fd6e1) is first result in Google after the official Jetbrains website:
